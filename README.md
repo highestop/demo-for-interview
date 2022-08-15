@@ -1,1 +1,1 @@
-# cheatsheet-for-interviews
+# cheatsheet-for-interviewing
